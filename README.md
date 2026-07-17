@@ -2,6 +2,7 @@
 I’m Anthony Benyarko
 
 **I design analytics solutions that help leaders make confident, evidence-based decisions.**
+
 My work combines:
 - 📊 Business Intelligence
 - 📈 Decision Science
