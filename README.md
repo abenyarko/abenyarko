@@ -1,34 +1,35 @@
- # Welcome to my GitHub
-I’m Anthony Benyarko
+# Welcome to my GitHub
+I’m Anthony Benyarko 👋
 
+**I specialize in designing end-to-end analytics solutions that transform complex survey, operational, and organizational data into executive-ready insights using statistical analysis, predictive modeling, and business intelligence to drive evidence-based decision-making.**
+
+## What I Do
 **I design analytics solutions that help leaders make confident, evidence-based decisions.**
 
 My work combines:
 - 📊 Business Intelligence
-- 📈 Decision Science
+- 📈 Survey Statistics & Decision Science
 - 📉 Predictive Analytics
-- 📋 Survey Methodology
-- 🏛 Higher Education Operations
-- 🥍 NCAA Athlete Performance Analytics
+- 🏛 Organizational & Higher Education Operations
+- 🥍 Athlete Performance Analytics
   
 ## Ask me about:
-- Business Intelligence & Decision Science
-- Power BI & Executive Dashboards
+- Business Intelligence & Power BI 
+- Survey Analytics & Decision Science
 - R & R Shiny
-- Survey Analytics
 - Predictive Modeling & Machine Learning
-- Higher Education & Athlete Wellness Analytics
-- Healthcare
+- Organizational & Higher Education Analytics
+- Healthcare & Athlete Wellness Analytics
   
 ## What makes me different:
 **I build decision-support ecosystems to solve real organizational problems.**
 
 My projects combine:
-- Statistical Analysis
-- Data Visualization
-- Predictive models built using R and machine learning techniques.
-- Executive dashboards supporting organizational decision-making.
-- Interactive Applications
+- 📊 Statistical analysis for reliable, evidence-based insights
+- 🤖 Predictive models that forecast outcomes and support planning
+- 🖥 Interactive applications that improve accessibility and usability
+- 📈 Executive dashboards that transform data into decisions
+- 🔄 End-to-end analytics workflows from data preparation to reporting
 
 ## Featured Projects
 
@@ -38,11 +39,13 @@ My projects combine:
 - Expanding Decision Science and Predictive Analytics projects
 
 ## Connect with me
--💼 LinkedIn: https://linkedin.com/in/anthony-benyarko
+💼 LinkedIn: [linkedin.com/in/anthony-benyarko](https://linkedin.com/in/anthony-benyarko)
 
--📬 - Email: abenyrko.analytics@gmail.com
+📬 - Email: abenyarko.analytics@gmail.com
 
 **Interested in collaborating or discussing analytics, Business Intelligence, or decision science? Feel free to connect with me on LinkedIn, email or explore the projects below.**
+
+***Turning the complexity into clarity. Turning insights into decisions***
 
 
 
