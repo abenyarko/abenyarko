@@ -1,4 +1,4 @@
- # Greetings, Welcome to my page
+ # Welcome to my GitHub
 I’m Anthony Benyarko
 
 **I design analytics solutions that help leaders make confident, evidence-based decisions.**
@@ -12,16 +12,12 @@ My work combines:
 - 🥍 NCAA Athlete Performance Analytics
   
 ## Ask me about:
-- Business Intelligence
-- Decision Science
-- Power BI
+- Business Intelligence & Decision Science
+- Power BI & Executive Dashboards
 - R & R Shiny
 - Survey Analytics
-- Predictive Modeling
-- Machine Learning
-- Executive Dashboards
-- Higher Education Analytics
-- Athlete Wellness Analytics
+- Predictive Modeling & Machine Learning
+- Higher Education & Athlete Wellness Analytics
 - Healthcare
   
 ## What makes me different:
@@ -30,9 +26,23 @@ My work combines:
 My projects combine:
 - Statistical Analysis
 - Data Visualization
-- Machine Learning
-- Executive Reporting
+- Predictive models built using R and machine learning techniques.
+- Executive dashboards supporting organizational decision-making.
 - Interactive Applications
+
+## Featured Projects
+
+## Current Focus
+- Building an NCAA Division I Wellness Analytics Platform
+- Developing Executive Power BI & Shiny Dashboards
+- Expanding Decision Science and Predictive Analytics projects
+
+## Connect with me
+💼 LinkedIn: https://linkedin.com/in/anthony-benyarko
+📬 - Email: abenyrko.analytics@gmail.com
+**Interested in collaborating or discussing analytics, Business Intelligence, or decision science? Feel free to connect with me on LinkedIn, email or explore the projects below.**
+
+
 
 <!---
 abenyarko/abenyarko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
