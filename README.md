@@ -12,7 +12,8 @@ My work combines:
 - 🥍 NCAA Athlete Performance Analytics
   
 ## Ask me about:
-- Business Intelligence - Decision Science
+- Business Intelligence
+- Decision Science
 - Power BI
 - R & R Shiny
 - Survey Analytics
