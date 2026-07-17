@@ -9,6 +9,7 @@ My work combines:
 - 📋 Survey Methodology
 - 🏛 Higher Education Operations
 - 🥍 NCAA Athlete Performance Analytics
+  
 ## Ask me about:
 - Business Intelligence
 - Decision Science
@@ -21,14 +22,14 @@ My work combines:
 - Higher Education Analytics
 - Athlete Wellness Analytics
 - Healthcare
+  
 ## What makes me different:
-
 **I build decision-support ecosystems to solve real organizational problems.**
-- 🌱 R, Power BI
-- 💞️ I’m looking to collaborate on Applied Sports Science projects
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I enjoy discovering new things.
+- Statistical Analysis
+- Data Visualization
+- Machine Learning
+- Executive Reporting
+- Interactive Applications
 
 <!---
 abenyarko/abenyarko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
