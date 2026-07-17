@@ -26,6 +26,8 @@ My work combines:
   
 ## What makes me different:
 **I build decision-support ecosystems to solve real organizational problems.**
+
+My projects combine:
 - Statistical Analysis
 - Data Visualization
 - Machine Learning
