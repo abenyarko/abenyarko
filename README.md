@@ -1,6 +1,6 @@
  # Greetings, Welcome to my page
 I’m Anthony Benyarko
-#I design analytics solutions that help leaders make confident, evidence-based decisions.
+**I design analytics solutions that help leaders make confident, evidence-based decisions.
 My work combines:
 - 📊 Business Intelligence
 - 📈 Decision Science
@@ -21,7 +21,7 @@ My work combines:
 - Athlete Wellness Analytics
 - Healthcare
 ## What makes me different:
-#I build decision-support ecosystems to solve real organizational problems
+**I build decision-support ecosystems to solve real organizational problems
 - 🌱 R, Power BI
 - 💞️ I’m looking to collaborate on Applied Sports Science projects
 - 📫 How to reach me 
