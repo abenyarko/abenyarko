@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @abenyarko
-- 👀 I’m interested in Applied Sports Science, Human Performance, Data Analysis
+ # Greetings, Welcome to my page
+- I’m Anthony Benyarko
+- interested in Applied Sports Science, Human Performance, Data Analysis
 - 🌱 R, Power BI
 - 💞️ I’m looking to collaborate on Applied Sports Science projects
 - 📫 How to reach me 
