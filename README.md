@@ -1,6 +1,6 @@
  # Greetings, Welcome to my page
 - I’m Anthony Benyarko
-- interested in Applied Sports Science, Human Performance, Data Analysis
+- I design analytics solutions that help leaders make confident, evidence-based decisions.
 - 🌱 R, Power BI
 - 💞️ I’m looking to collaborate on Applied Sports Science projects
 - 📫 How to reach me 
