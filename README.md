@@ -38,8 +38,9 @@ My projects combine:
 - Expanding Decision Science and Predictive Analytics projects
 
 ## Connect with me
-💼 LinkedIn: https://linkedin.com/in/anthony-benyarko
-📬 - Email: abenyrko.analytics@gmail.com
+-💼 LinkedIn: https://linkedin.com/in/anthony-benyarko
+-📬 - Email: abenyrko.analytics@gmail.com
+
 **Interested in collaborating or discussing analytics, Business Intelligence, or decision science? Feel free to connect with me on LinkedIn, email or explore the projects below.**
 
 
