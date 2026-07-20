@@ -45,7 +45,8 @@ My projects combine:
 <p align="center">
 An end-to-end analytics solution integrating survey-weighted statistics, predictive analytics, machine learning, and Power BI into a longitudinal decision-support framework.
 </p>
-**Repository:** https://github.com/abenyarko/Sports-Wellness-Analytics
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Sports-Wellness-Analytics)**
 
 ## Current Focus
 - Building an NCAA Division I Wellness Analytics Platform
