@@ -33,8 +33,6 @@ My projects combine:
 
 ## Featured Projects
 
-### 🏆 Sports Wellness Analytics
-
 ## 🏆 Sports Wellness Analytics
 
 [![Sports Wellness Analytics](https://raw.githubusercontent.com/abenyarko/Sports-Wellness-Analytics/main/visuals/Season-Overview.png)](https://github.com/abenyarko/Sports-Wellness-Analytics)
