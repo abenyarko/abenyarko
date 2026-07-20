@@ -33,12 +33,18 @@ My projects combine:
 
 ## Featured Projects
 
-## 🏆 Sports Wellness Analytics
+<h2>🏆 Sports Wellness Analytics</h2>
 
-[![Sports Wellness Analytics](https://raw.githubusercontent.com/abenyarko/Sports-Wellness-Analytics/main/visuals/Season-Overview.png)](https://github.com/abenyarko/Sports-Wellness-Analytics)
+<p align="center">
+  <a href="https://github.com/abenyarko/Sports-Wellness-Analytics">
+    <img src="https://raw.githubusercontent.com/abenyarko/Sports-Wellness-Analytics/main/visuals/Season-Overview.png"
+         width="700">
+  </a>
+</p>
 
-An end-to-end analytics solution integrating survey-weighted statistics, predictive analytics, machine learning, and Power BI into a longitudinal decision-support framework for athlete wellness monitoring.
-
+<p align="center">
+An end-to-end analytics solution integrating survey-weighted statistics, predictive analytics, machine learning, and Power BI into a longitudinal decision-support framework.
+</p>
 **Repository:** https://github.com/abenyarko/Sports-Wellness-Analytics
 
 ## Current Focus
