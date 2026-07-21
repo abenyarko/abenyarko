@@ -60,7 +60,7 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 
 **Interested in collaborating or discussing analytics, Business Intelligence, or decision science? Feel free to connect with me on LinkedIn, email or explore the projects below.**
 
-***Turning the complexity into clarity. Turning insights into decisions***
+***Turning complexity into clarity. Turning insights into decisions***
 
 
 
