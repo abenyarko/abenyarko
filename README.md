@@ -83,8 +83,8 @@ An interactive Power BI dashboard analyzing COVID-19 trends across 198 countries
 <h2>📈 Sales Performance Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/abenyarko/Sales-performance-analytics-dashboard/blob/main/sales-dashboard-overview.png">
-    <img src=""
+  <a href="https://github.com/abenyarko/Sales-performance-analytics-dashboard">
+    <img src="https://github.com/abenyarko/Sales-performance-analytics-dashboard/blob/main/sales-dashboard-overview.png"
          width="700">
   </a>
 </p>
