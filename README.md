@@ -54,7 +54,7 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 
 <p align="center">
   <a href="https://github.com/abenyarko/Global-Economic-Indicators-Dashboard">
-    <img src="https://raw.githubusercontent.com/abenyarko/Global-Economic-Indicators-Dashboard/main/images/global-economic-dashboard.png"
+    <img src="https://github.com/abenyarko/Global-Economic-Indicators-Dashboard/blob/main/global-economic-dashboard.png"
          width="700">
   </a>
 </p>
@@ -69,7 +69,7 @@ An interactive Power BI dashboard integrating World Bank API data, Power Query E
 
 <p align="center">
   <a href="https://github.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI">
-    <img src="https://raw.githubusercontent.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI/main/images/covid-dashboard.png"
+    <img src="https://github.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI/blob/main/covid-dashboard.png"
          width="700">
   </a>
 </p>
@@ -83,8 +83,8 @@ An interactive Power BI dashboard analyzing COVID-19 trends across 198 countries
 <h2>📈 Sales Performance Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/abenyarko/Sales-Performance-Analytics">
-    <img src="https://raw.githubusercontent.com/abenyarko/Sales-Performance-Analytics/main/images/sales-dashboard-overview.png"
+  <a href="https://github.com/abenyarko/Sales-performance-analytics-dashboard/blob/main/sales-dashboard-overview.png">
+    <img src=""
          width="700">
   </a>
 </p>
@@ -93,7 +93,7 @@ An interactive Power BI dashboard analyzing COVID-19 trends across 198 countries
 An enterprise Power BI analytics solution leveraging SQL Server, Power Query, semantic modeling, DAX, drill-through navigation, and executive dashboards to analyze salesperson performance and business KPIs.
 </p>
 
-🔗 **[Explore the Full Project](https://github.com/abenyarko/Sales-Performance-Analytics)**
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Sales-performance-analytics-dashboard)**
 
 ## Additional Analytics Projects
 
@@ -101,7 +101,7 @@ An enterprise Power BI analytics solution leveraging SQL Server, Power Query, se
 
 <p align="center">
   <a href="https://github.com/abenyarko/US-Census-Population-Analytics">
-    <img src="https://raw.githubusercontent.com/abenyarko/US-Census-Population-Analytics/main/images/overview-dashboard.png"
+    <img src="https://github.com/abenyarko/US-Census-Population-Analytics/blob/main/census-overview.png"
          width="700">
   </a>
 </p>
