@@ -7,10 +7,12 @@ I’m Anthony Benyarko 👋
 **I design analytics solutions that help leaders make confident, evidence-based decisions.**
 
 My work combines:
-- 📊 Business Intelligence
-- 📈 Survey Statistics & Decision Science
-- 📉 Predictive Analytics
-- 🏛 Organizational & Higher Education Operations
+- 📊 Business Intelligence & Executive Dashboards
+- 📈 Decision Science & Statistical Analysis
+- 🤖 Predictive Analytics & Machine Learning
+- 🗄 SQL, Data Modeling & ETL
+- 📋 Survey Methodology & Program Evaluation
+- 🏥 Healthcare, Operations & Organizational Analytics
 - 🥍 Athlete Performance Analytics
   
 ## Ask me about:
