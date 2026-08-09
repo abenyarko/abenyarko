@@ -60,7 +60,7 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 </p>
 
 <p align="center">
-An interactive Power BI dashboard integrating World Bank API data, Power Query ETL, DAX, and geographic analytics to explore global economic trends and support data-driven decision-making.
+An enterprise Power BI analytics solution integrating multiple World Bank REST APIs, external datasets, Power Query ETL, semantic modeling, and geographic analytics to explore global economic and demographic trends.
 </p>
 
 🔗 **[Explore the Full Project](https://github.com/abenyarko/Global-Economic-Indicators-Dashboard)**
@@ -75,7 +75,7 @@ An interactive Power BI dashboard integrating World Bank API data, Power Query E
 </p>
 
 <p align="center">
-An interactive Power BI dashboard analyzing COVID-19 trends across 198 countries using KPI reporting, drill-through navigation, geographic visualization, heatmaps, and time-series analysis.
+An end-to-end Power BI analytics solution integrating World Bank APIs, CSV datasets, semantic modeling, DAX, and interactive dashboards to monitor global COVID-19 trends across 198 countries.
 </p>
 
 🔗 **[Explore the Full Project](https://github.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI)**
