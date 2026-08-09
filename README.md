@@ -48,6 +48,68 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 
 🔗 **[Explore the Full Project](https://github.com/abenyarko/Sports-Wellness-Analytics)**
 
+<h2>🌍 Global Economic Indicators Dashboard</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/Global-Economic-Indicators-Dashboard">
+    <img src="https://raw.githubusercontent.com/abenyarko/Global-Economic-Indicators-Dashboard/main/images/global-economic-dashboard.png"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+An interactive Power BI dashboard integrating World Bank API data, Power Query ETL, DAX, and geographic analytics to explore global economic trends and support data-driven decision-making.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Global-Economic-Indicators-Dashboard)**
+
+<h2>🌎 Global COVID-19 Analytics Dashboard</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI">
+    <img src="https://raw.githubusercontent.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI/main/images/covid-dashboard.png"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+An interactive Power BI dashboard analyzing COVID-19 trends across 198 countries using KPI reporting, drill-through navigation, geographic visualization, heatmaps, and time-series analysis.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Global-COVID-19-Trends-Analysis-with-Power-BI)**
+
+<h2>📈 Sales Performance Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/Sales-Performance-Analytics">
+    <img src="https://raw.githubusercontent.com/abenyarko/Sales-Performance-Analytics/main/images/sales-dashboard-overview.png"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+An enterprise Power BI analytics solution leveraging SQL Server, Power Query, semantic modeling, DAX, drill-through navigation, and executive dashboards to analyze salesperson performance and business KPIs.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Sales-Performance-Analytics)**
+
+## Additional Analytics Projects
+
+<h2>🇺🇸 U.S. Census Population Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/US-Census-Population-Analytics">
+    <img src="https://raw.githubusercontent.com/abenyarko/US-Census-Population-Analytics/main/images/overview-dashboard.png"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+An interactive Power BI dashboard exploring U.S. Census population trends through regional comparisons, demographic analysis, time-series visualization, and interactive drill-through reporting.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/US-Census-Population-Analytics)**
+
 ## Current Focus
 - Building an NCAA Division I Wellness Analytics Platform
 - Developing Executive Power BI & Shiny Dashboards
