@@ -50,6 +50,21 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 
 🔗 **[Explore the Full Project](https://github.com/abenyarko/Sports-Wellness-Analytics)**
 
+<h2>🤖 Athlete Readiness Predictive Modeling</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/Athlete-Readiness-Predictive-Modeling">
+    <img src=""
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+An end-to-end predictive analytics solution integrating supervised machine learning, statistical modeling, and longitudinal data analysis to transform complex wellness and performance data into evidence-based decision support.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Athlete-Readiness-Predictive-Modeling)**
+
 <h2>🌍 Global Economic Indicators Dashboard</h2>
 
 <p align="center">
