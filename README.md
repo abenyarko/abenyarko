@@ -54,7 +54,7 @@ An end-to-end analytics solution integrating survey-weighted statistics, predict
 
 <p align="center">
   <a href="https://github.com/abenyarko/Athlete-Readiness-Predictive-Modeling">
-    <img src=""
+    <img src="https://github.com/abenyarko/Athlete-Readiness-Predictive-Modeling/blob/main/visuals/counter-movement.png"
          width="700">
   </a>
 </p>
