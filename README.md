@@ -65,6 +65,24 @@ An end-to-end predictive analytics solution integrating supervised machine learn
 
 🔗 **[Explore the Full Project](https://github.com/abenyarko/Athlete-Readiness-Predictive-Modeling)**
 
+
+<h2>🏥 NHS Emergency Department Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/NHS-Emergency-Department-Analytics">
+    <img src="https://raw.githubusercontent.com/abenyarko/NHS-Emergency-Department-Analytics/main/images/NHS%20Emergency%20Department%20Performance.png"
+         width="700"
+         alt="NHS Emergency Department Performance Dashboard">
+  </a>
+</p>
+
+<p align="center">
+An end-to-end healthcare analytics and executive decision-support solution integrating R, SQL, SQLite, NHS ODS API data, statistical analysis, and Power BI to evaluate over 72 million emergency department attendances, four-hour performance breaches, seasonal utilization trends, and provider-level performance across England's NHS.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/NHS-Emergency-Department-Analytics)**
+
+
 <h2>🌍 Global Economic Indicators Dashboard</h2>
 
 <p align="center">
