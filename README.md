@@ -35,6 +35,23 @@ My projects combine:
 
 ## Featured Projects
 
+ <h2>🏘️ Montgomery County Housing Affordability Analysis</h2>
+
+<p align="center">
+  <a href="https://github.com/abenyarko/Montgomery-County-Housing-Affordability-Analysis">
+    <img src="https://raw.githubusercontent.com/abenyarko/Montgomery-County-Housing-Affordability-Analysis/main/images/montgomery_housing_burden_categorical.png"
+         width="700"
+         alt="Montgomery County Severe Rental Housing Cost Burden">
+  </a>
+</p>
+
+<p align="center">
+An end-to-end population health analytics solution integrating R, U.S. Census ACS data, API validation, geospatial analysis, and executive reporting to examine severe rental housing cost burden across 232 census tracts and inform community health needs assessments and outreach planning.
+</p>
+
+🔗 **[Explore the Full Project](https://github.com/abenyarko/Montgomery-County-Housing-Affordability-Analysis)**
+
+
 <h2>🏆 Sports Wellness Analytics</h2>
 
 <p align="center">
